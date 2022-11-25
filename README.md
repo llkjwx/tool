@@ -1,12 +1,12 @@
 🌟工具使用教程&流量科技
 
-🌟IOS for Surge 使用教程： [点击查看](https://hutao.cloud/https://hutaocloud-1.gitbook.io/hutaocloud/ios/surge)
+🌟IOS for Surge 使用教程： [点击查看](https://nssurge.zendesk.com/hc/zh-cn)
 
 🌟IOS for Shadowrocket使用教程：[点击查看](https://hutaocloud-1.gitbook.io/hutaocloud/ios/shadowrocket)
 
 🌟macOS for Clash 使用教程：[点击查看](https://hutaocloud-1.gitbook.io/hutaocloud/mac/clashx)
 
-🌟macOS for Surge 使用教程：[点击查看](https://hutaocloud-1.gitbook.io/hutaocloud/mac/surge-for-mac)
+🌟macOS for Surge 使用教程：[点击查看](https://nssurge.com/)
 
 🌟Android for SSR 使用教程：[点击查看](https://hutaocloud-1.gitbook.io/hutaocloud/android/shadowsocksr)
 
