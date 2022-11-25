@@ -1,18 +1,18 @@
 🌟工具使用教程&流量科技
 
-🌟IOS for Surge 使用教程： [点击查看](https://nssurge.zendesk.com/hc/zh-cn)
+🌟IOS for Surge 使用教程： [点击查看](https://wikibos.com/index.php/kb/surge/)
 
-🌟IOS for Shadowrocket使用教程：[点击查看](https://hutaocloud-1.gitbook.io/hutaocloud/ios/shadowrocket)
+🌟IOS for Shadowrocket使用教程：[点击查看](https://wikibos.com/index.php/kb/shadowrocket/)
 
-🌟macOS for Clash 使用教程：[点击查看](https://hutaocloud-1.gitbook.io/hutaocloud/mac/clashx)
+🌟macOS for ClashX 使用教程：[点击查看](https://wikibos.com/index.php/kb/clashx/)
 
 🌟macOS for Surge 使用教程：[点击查看](https://nssurge.com/)
 
-🌟Android for SSR 使用教程：[点击查看](https://hutaocloud-1.gitbook.io/hutaocloud/android/shadowsocksr)
+🌟Android for SSR 使用教程：[点击查看](https://play.google.com/store/apps/details?id=com.hdev.shadowsocksr&hl=en&gl=US)
 
-🌟Android for Clash使用教程：[点击查看](https://hutaocloud-1.gitbook.io/hutaocloud/android/clashforandroid)
+🌟Android for Clash使用教程：[点击查看](https://wikibos.com/index.php/kb/clash-for-android/)
 
-🌟Windows for SSR  使用教程：[点击查看](https://hutaocloud-1.gitbook.io/hutaocloud/windows/shadowsocksr)
+🌟Windows for SSR  使用教程：[点击查看](https://play.google.com/store/apps/details?id=com.hdev.shadowsocksr&hl=en&gl=US)
 
-🌟Windows for Clash使用教程：[点击查看](https://hutaocloud-1.gitbook.io/hutaocloud/windows/clash-for-windows)
+🌟Windows for Clash使用教程：[点击查看](https://wikibos.com/index.php/kb/clash-for-windows/)
 
